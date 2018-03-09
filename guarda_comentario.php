@@ -1,7 +1,7 @@
 <?php
-$nombre = $_POST['nombre'];
-$correo = $_POST['correo'];
-$comentario = $_POST['comentario'];
+$nombre = $_GET['nombre'];
+$correo = $_GET['correo'];
+$comentario = $_GET['comentario'];
 
 	echo $nombre."<br>";
 	echo $correo."<br>";
