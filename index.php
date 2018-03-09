@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
+<link rel="stylesheet" href="/css/index.css" type="text/css" />
 <title>Examen PArcial</title>
 </head>
 
